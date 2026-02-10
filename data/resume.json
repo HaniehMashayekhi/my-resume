@@ -6,23 +6,24 @@
     "email": "mashayekhi.h93@gmail.com",
     "linkedin": "linkedin.com/in/hanieh-mashayekhi",
     "location": "Vaasa, Finland",
-    "summary": "IT Engineering student with a strong, active technical skillset in Python, SQL, and automation (Go/Bash), focused on data-driven process improvement. This technical foundation is enhanced by a Masters in Education, giving me the advanced communication and collaborative abilities essential for successful engagement with non-technical shopfloor teams. I am eager to learn quickly and adapt to tools like Databricks and UiPath to create measurable value in production efficiency."
+    "summary": "IT Engineering student applying for Backend Engineering Internship roles, with hands-on practice in Go, SQL, Git, Python, and Bash. I enjoy building reliable backend logic, improving developer workflows, and learning quickly in collaborative engineering teams. My Masters in Education strengthens my communication and cross-functional collaboration, and I am motivated to contribute to customer-facing systems in Zalando's recommerce domain."
   },
   "skills": [
-    "Python",
-    "SQL",
     "Go",
+    "Git",
+    "SQL",
+    "NoSQL fundamentals",
     "C",
     "Bash",
-    "Git"
+    "AI-powered developer assistants"
   ],
   "soft_skills": [
-    "Communication & Collaboration",
+    "Open communication & Collaboration",
+    "Cross-team teamwork (backend, web, product)",
     "Curiosity & Willingness to Learn",
     "Proactivity & Initiative",
     "Problem Solving",
-    "Adaptability & Flexibility",
-    "Teamwork"
+    "Adaptability & Flexibility"
   ],
   "languages": [
     {
@@ -45,7 +46,7 @@
       "period": "Sep 2024 - Present",
       "location": "Vaasa",
       "details": [
-        "Building foundational knowledge in C Programming and Engineering Mathematics, applied alongside core data skills like Python and SQL for process development."
+        "Building core backend foundations in C programming, engineering mathematics, Python, and SQL, with focus on practical software and process development."
       ]
     },
     {
@@ -54,7 +55,7 @@
       "period": "August 2025 - Present",
       "location": "Kuopio",
       "details": [
-        "Actively participating in the intensive Kood Sisu program, focusing on practical skills like Go, Bash scripting, Git/Code Review, and automation, demonstrating a strong aptitude for quick technical learning and teamwork."
+        "Actively participating in the intensive Kood Sisu program, focusing on Go, Bash scripting, Git/code review, and automation with strong emphasis on fast learning and collaborative development."
       ]
     },
     {

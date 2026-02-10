@@ -9,19 +9,19 @@
   },
   "letter": {
     "date": "2026-02-10",
-    "subject": "Application for On-call Trainee, Data Science & Business Analytics",
+    "subject": "Application for Backend Engineering Internship - Recommerce",
     "recipient": {
-      "name": "Mr. Sundman",
-      "title": "",
-      "company": "Wartsila",
-      "location": "Vaasa, Finland"
+      "name": "Shaelyn Klaus",
+      "title": "Backend Engineering Internship - Recommerce",
+      "company": "Zalando",
+      "location": "Helsinki, Finland"
     },
-    "salutation": "Dear Mr. Sundman,",
+    "salutation": "Dear Shaelyn Klaus,",
     "paragraphs": [
-      "I am applying for the On-call Trainee, Data Science & Business Analytics position in Vaasa, driven by a deep commitment to learning and supporting Wartsila's mission through data.",
-      "I acknowledge I am a beginner with specialized tools like Databricks and UiPath, but I offer a profile aligned with your core requirement: rapid, communicative growth. As a local IT Engineering student, I possess foundational familiarity with technical concepts, including Python, SQL, C, and automation logic in Go/Bash.",
-      "More uniquely, I combine this technical foundation with advanced communication ability from my Masters in Education. This helps me engage with non-technical shopfloor teams, translate complex findings clearly, and support collaboration required for system integration.",
-      "I am a proactive, self-driven learner eager to quickly convert this foundation into measurable value for your team."
+      "I am applying for the Backend Engineering Internship - Recommerce in Helsinki. I am an IT Engineering student in Finland with a strong interest in building systems that improve customer experience and support circular economy workflows.",
+      "My current practical stack includes Go, Git, SQL, Python, and Bash. Through my studies and intensive training at KoodSisu, I have been strengthening backend fundamentals, version control and code review habits, and structured problem solving for production-oriented development.",
+      "I am also actively exploring AI-powered developer assistants to improve speed and quality in everyday engineering tasks, and I would be excited to learn from your team's practices and share effective workflows.",
+      "In addition to technical growth, my Masters in Education gives me strong communication and collaboration skills for working across backend, mobile, web, product, and analytics teams. I am available for a full-time internship from May 2026 and motivated to contribute to Zalando's Recommerce & Kids Customer Experience team."
     ],
     "closing": "I look forward to discussing this opportunity.",
     "signoff": "Best regards"
