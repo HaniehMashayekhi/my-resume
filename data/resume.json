@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Hanieh Mashayekhi",
+    "title": "IT Engineering Student",
+    "phone": "+358414731123",
+    "email": "mashayekhi.h93@gmail.com",
+    "linkedin": "linkedin.com/in/hanieh-mashayekhi",
+    "location": "Vaasa, Finland",
+    "summary": "IT Engineering student with a strong, active technical skillset in Python, SQL, and automation (Go/Bash), focused on data-driven process improvement. This technical foundation is enhanced by a Masters in Education, giving me the advanced communication and collaborative abilities essential for successful engagement with non-technical shopfloor teams. I am eager to learn quickly and adapt to tools like Databricks and UiPath to create measurable value in production efficiency."
+  },
+  "skills": [
+    "Python",
+    "SQL",
+    "Go",
+    "C",
+    "Bash",
+    "Git"
+  ],
+  "soft_skills": [
+    "Communication & Collaboration",
+    "Curiosity & Willingness to Learn",
+    "Proactivity & Initiative",
+    "Problem Solving",
+    "Adaptability & Flexibility",
+    "Teamwork"
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Fluent"
+    },
+    {
+      "name": "Finnish",
+      "level": "Satisfactory"
+    },
+    {
+      "name": "Persian",
+      "level": "Native"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelors Degree in IT Engineering",
+      "school": "VAMK University of Applied Sciences",
+      "period": "Sep 2024 - Present",
+      "location": "Vaasa",
+      "details": [
+        "Building foundational knowledge in C Programming and Engineering Mathematics, applied alongside core data skills like Python and SQL for process development."
+      ]
+    },
+    {
+      "degree": "Full-stack Full-Time Student",
+      "school": "KoodSisu",
+      "period": "August 2025 - Present",
+      "location": "Kuopio",
+      "details": [
+        "Actively participating in the intensive Kood Sisu program, focusing on practical skills like Go, Bash scripting, Git/Code Review, and automation, demonstrating a strong aptitude for quick technical learning and teamwork."
+      ]
+    },
+    {
+      "degree": "Masters Degree in Education",
+      "school": "Åbo Akademi University",
+      "period": "2021 - 2023",
+      "location": "Vaasa",
+      "details": [
+        "Provides advanced abilities in communication and teaching, perfect for collaborating effectively with non-technical shopfloor personnel and translating complex data insights."
+      ]
+    }
+  ],
+  "volunteering": [
+    {
+      "role": "Tenant Board Volunteer",
+      "org": "VOAS",
+      "details": [
+        "2 years of volunteering in the tenant board, rewarded as the best tenant board in Finland."
+      ]
+    },
+    {
+      "role": "Project Team",
+      "org": "Vaasa Entrepreneur Society (VES)",
+      "details": [
+        "Contributed as part of the project team."
+      ]
+    },
+    {
+      "role": "Organizer",
+      "org": "Django Girls",
+      "details": [
+        "One-day event to familiarize beginners with Python."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jukka Matila",
+      "role": "Senior Lecturer, Information Technology",
+      "org": "VAMK",
+      "phone": "+358207663377",
+      "email": "Jukka.Matila@vamk.fi"
+    },
+    {
+      "name": "Farouq Hedhili",
+      "role": "Teach Lead",
+      "org": "KoodSisu",
+      "phone": "+358408222685",
+      "email": "farouq.hedhili@koodsisu.fi"
+    }
+  ]
+}
