@@ -1,0 +1,29 @@
+{
+  "basics": {
+    "name": "Hanieh Mashayekhi",
+    "title": "IT Engineering Student",
+    "phone": "+358414731123",
+    "email": "mashayekhi.h93@gmail.com",
+    "linkedin": "linkedin.com/in/hanieh-mashayekhi",
+    "location": "Vaasa, Finland"
+  },
+  "letter": {
+    "date": "2026-02-10",
+    "subject": "Application for On-call Trainee, Data Science & Business Analytics",
+    "recipient": {
+      "name": "Mr. Sundman",
+      "title": "",
+      "company": "Wartsila",
+      "location": "Vaasa, Finland"
+    },
+    "salutation": "Dear Mr. Sundman,",
+    "paragraphs": [
+      "I am applying for the On-call Trainee, Data Science & Business Analytics position in Vaasa, driven by a deep commitment to learning and supporting Wartsila's mission through data.",
+      "I acknowledge I am a beginner with specialized tools like Databricks and UiPath, but I offer a profile aligned with your core requirement: rapid, communicative growth. As a local IT Engineering student, I possess foundational familiarity with technical concepts, including Python, SQL, C, and automation logic in Go/Bash.",
+      "More uniquely, I combine this technical foundation with advanced communication ability from my Masters in Education. This helps me engage with non-technical shopfloor teams, translate complex findings clearly, and support collaboration required for system integration.",
+      "I am a proactive, self-driven learner eager to quickly convert this foundation into measurable value for your team."
+    ],
+    "closing": "I look forward to discussing this opportunity.",
+    "signoff": "Best regards"
+  }
+}
